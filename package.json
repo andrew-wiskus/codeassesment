@@ -1,7 +1,7 @@
 {
-  "name": "omicron_mongoose",
+  "name": "herolist",
   "version": "1.0.0",
-  "description": "Walk through the Mongo in Node via Mongoose app for books",
+  "description": "Hero List Maker",
   "main": "app.js",
   "scripts": {
     "start": "node server/app.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "mongoose"
   ],
-  "author": "antoinette@primeacademy.io",
+  "author": "wskcontact@gmail.com",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
